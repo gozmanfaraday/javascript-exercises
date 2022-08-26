@@ -1,5 +1,5 @@
-const palindromes = function () {
-
+const palindromes = function (string) {
+  string = string.toLowerCase();
 };
 
 // Do not edit below this line
